@@ -15,3 +15,8 @@ the following features:
  Provision to input the no. of units consumed per month
  To display the bill-amount payable as per the tariff structure
  To display the due date of the payment*/
+
+
+
+Note:   There is a compiled file named ElectricityBill whene I compiled and run from VS code.
+	And   a.out file is created when I run the "gcc electricityBill.c" command on terminal
